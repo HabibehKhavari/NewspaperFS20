@@ -9,6 +9,7 @@ Our firm got a contract on the well known news channel Odyssea Broadcast. Your t
 1. Some cards are advertorials (paid articles). The text color of these should be dark red (or pick a color that match your palette).
 1. The page should display the *Odyssea Broadcast* name on top right, like a logo
 1. The color palette is up to you.
+1. See the [mockup](#mockup) 
 
 You should create two versions, looking the same, using different approaches.
 ### First approach - using tables
@@ -38,3 +39,7 @@ You may try your own way or you may review the steps I am proposing below.
 
 ### Proposed steps for divs
 These are the same as the steps for tables. The only difference is that isntead of making a 1x5 table, you should make a div and put inside 5 other divs, same size, aligned one next to the other.
+
+## Images
+### Mockup
+![mockup](mockup.jpg)
