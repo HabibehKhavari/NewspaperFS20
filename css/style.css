@@ -42,6 +42,14 @@ td {
     padding: 0.5rem;
 }
 
+td.live {
+    background-color: tomato;
+}
+
+td.advertorial {
+    color: saddlebrown;
+}
+
 tr.news {
     background-color: lightpink;
 }
