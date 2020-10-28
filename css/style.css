@@ -4,9 +4,36 @@ body {
 
 h1 {
     text-align: right;
-    padding-right: 2rem;;
+    padding-right: 1rem;;
 }
 
 h2 {
     padding-left: 1rem;;
+    margin-left: 0.5rem;
+}
+
+h2.news-section {
+    border-style: hidden hidden hidden solid;
+    border-width: 0.5rem;
+    border-color: tomato;
+}
+
+h3 {
+    margin: 0px;;
+}
+
+td {
+    width: 20%;
+    padding: 0.5rem;
+}
+
+img {
+    display: block;
+    margin: 0px auto 0px 0px;
+    width: 90%;
+}
+
+p {
+    margin: 0px;
+    padding: 5px 5px 5px 0px;
 }
