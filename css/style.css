@@ -12,10 +12,25 @@ h2 {
     margin-left: 0.5rem;
 }
 
-h2.news-section {
+h2.section {
     border-style: hidden hidden hidden solid;
     border-width: 0.5rem;
-    border-color: tomato;
+}
+
+h2.news {
+    border-color: lightpink;
+}
+
+h2.intern {
+    border-color: violet;
+}
+
+h2.opinion {
+    border-color: lightskyblue;
+}
+
+h2.sport {
+    border-color: lightyellow;
 }
 
 h3 {
@@ -25,6 +40,22 @@ h3 {
 td {
     width: 20%;
     padding: 0.5rem;
+}
+
+tr.news {
+    background-color: lightpink;
+}
+
+tr.intern {
+    background-color: violet;
+}
+
+tr.opinion {
+    background-color: lightskyblue;
+}
+
+tr.sport {
+    background-color: lightyellow;
 }
 
 img {
